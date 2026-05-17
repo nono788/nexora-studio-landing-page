@@ -374,7 +374,7 @@ body {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 800;
 }
 .contact .info .label {
@@ -387,6 +387,7 @@ body {
     display: block;
     color: var(--accent-color);
     text-decoration: none;
+    font-weight: 500;
 }
 .contact .info .icons {
     margin-top: 20px;
