@@ -374,20 +374,20 @@ body {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    font-size: 30px;
-    
 }
 .contact .info .label {
     color: var(--secondary-color);
     margin-bottom: 29px;
     letter-spacing: -2px;
+    font-size: 30px;
      font-weight: 800;
 }
 .contact .info .link {
     display: block;
     color: var(--accent-color);
     text-decoration: none;
-    font-weight: 300;
+    font-size: 20px;
+    font-weight: 400;
 }
 .contact .info .icons {
     margin-top: 20px;
