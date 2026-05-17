@@ -387,7 +387,7 @@ body {
     display: block;
     color: var(--accent-color);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 300;
 }
 .contact .info .icons {
     margin-top: 20px;
